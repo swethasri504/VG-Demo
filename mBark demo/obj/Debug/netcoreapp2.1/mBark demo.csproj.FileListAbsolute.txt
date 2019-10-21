@@ -1,0 +1,14 @@
+D:\swetha\.NET Examples\mBark demo\mBark demo\bin\Debug\netcoreapp2.1\mBark demo.deps.json
+D:\swetha\.NET Examples\mBark demo\mBark demo\bin\Debug\netcoreapp2.1\mBark demo.runtimeconfig.json
+D:\swetha\.NET Examples\mBark demo\mBark demo\bin\Debug\netcoreapp2.1\mBark demo.runtimeconfig.dev.json
+D:\swetha\.NET Examples\mBark demo\mBark demo\bin\Debug\netcoreapp2.1\mBark demo.dll
+D:\swetha\.NET Examples\mBark demo\mBark demo\bin\Debug\netcoreapp2.1\mBark demo.pdb
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.csprojAssemblyReference.cache
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.csproj.CoreCompileInputs.cache
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.RazorAssemblyInfo.cache
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.RazorAssemblyInfo.cs
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.AssemblyInfoInputs.cache
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.AssemblyInfo.cs
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.RazorTargetAssemblyInfo.cache
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.dll
+D:\swetha\.NET Examples\mBark demo\mBark demo\obj\Debug\netcoreapp2.1\mBark demo.pdb
