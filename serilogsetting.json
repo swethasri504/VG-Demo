@@ -1,0 +1,32 @@
+{
+  "Serilog": {
+    "Using": [ "Serilog.Sinks.Console", "Serilog.Sinks.File", "Serilog.Sinks.Seq" ],
+    "Enrich": [ "FromLogContext" ]
+   ,
+    "MinimumLevel": {
+      "Default": "Information",
+      "Override": {
+        "Microsoft": "Warning",
+        "System": "Warning"
+      }
+    },
+    "WriteTo": [
+      { "Name": "Console" },
+      {
+        "Name": "File",
+        "Args": {
+          "path": "C:\\coregangway_logs\\vg-gangway-mobile-log.txt",
+          "outputTemplate": "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {SourceContext:l} {Message:lj}{NewLine}{Exception}",
+          "fileSizeLimitBytes": 50240000,
+          "retainedFileCountLimit": 150,
+          "rollOnFileSizeLimit": true,
+          "rollingInterval": "Day"
+        }
+      },
+      {
+        "Name": "Seq",
+        "Args": { "serverUrl": "http://localhost:5341" }
+      }
+    ]
+  }
+}
